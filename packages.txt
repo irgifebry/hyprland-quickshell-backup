@@ -1,4 +1,4 @@
-# CachyOS/Arch package list; includes core plus commonly used optional features.
+# CachyOS/Arch package list; includes core and commonly used optional features.
 hyprland
 quickshell
 bash

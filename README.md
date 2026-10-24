@@ -1,10 +1,12 @@
-# Hyprland + QuickShell backup
+# Hyprland + QuickShell Backup
 
-Personal backup of Hyprland and QuickShell configuration.
+Personal backup of my Hyprland and QuickShell configuration.
 
 - `hypr/`: `~/.config/hypr`
 - `quickshell/ii/`: `~/.config/quickshell/ii`
-- `quickshell/end4-pC/`: `~/.config/quickshell/end4-pC` (local changes included; embedded Git metadata excluded)
-- `illogical-impulse/config.json`: shared QuickShell settings (API key blanked)
+- `quickshell/end4-pC/`: `~/.config/quickshell/end4-pC`, including local changes but excluding embedded Git metadata
+- `illogical-impulse/config.json`: shared QuickShell settings; API key cleared
+- `DEPENDENCIES.md`: required and optional system dependencies
+- `packages.txt`: CachyOS/Arch package list
 
-Personal file paths are normalized to `$HOME`. Runtime caches and private installed-file inventory are excluded. Review before restoring; these files target this machine's setup.
+Personal paths are normalized to `$HOME`. Runtime caches and the private installed-file inventory are excluded. Review the files before restoring; this backup is tailored to my system. Credentials and keyring contents are not included.
